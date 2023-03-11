@@ -387,7 +387,39 @@ p{
 
 /* end */
 
+/* exercise */
+.exercise{
+text-align: center;
+color:rgb(211, 83, 83);
+font-size: 1.5rem;
+}
+.box1 {
+    width: 70wh;
+    height: 130vh;
+    margin-left: 180px;
+    padding: 40px;
+}
+.exer1  img{
+    width: 70vw;
+    height: 130vh;
+}
+.box2 {
+    width: 70wh;
+    height: 130vh;
+    margin-left: 170px;
+    padding: 50px;
+    
+}
+.exer2 img{
+    width: 70vw;
+    height: 130vh;
+}
+
+
 /* pricing */
+.heading{
+    padding: 2rem;
+}
 
 .pricing .box-container{
     display: grid;
