@@ -361,7 +361,7 @@ p{
 /* counter */
 
 .counter{
-    background: url(../images/bg.jpg) no-repeat;
+    background: url(bg.jpg) no-repeat;
     background-attachment: fixed;
 }
 
@@ -543,7 +543,7 @@ font-size: 1.5rem;
 /* register */
 
 .register{
-    background: url(../images/bg.jpg) no-repeat;
+    background: url(bg.jpg) no-repeat;
     background-size: cover;
     text-align: center;
 }
