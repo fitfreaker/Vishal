@@ -720,4 +720,24 @@ font-size: 1.5rem;
     .team .box-container .box .image{
         height: 38rem;
     }
+
+    .diet .content .row{
+        flex-direction: column;
+    }
+    .diet .content .row .cols{
+        width: 100%;
+    }
+    .diet .content .row:nth-child(odd).a{
+        order: 0;
+    }
+    .diet .content .row .cols .text{
+        font-size: 1.5rem;
+    }
+    .diet .content .row .cols p{
+        font-size: 13px;
+    }
+    .diet .content .row .cols .boxes{
+        width: 90%;
+        margin: auto;
+    }
 }
