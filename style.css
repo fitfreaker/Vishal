@@ -165,6 +165,8 @@ html::-webkit-scrollbar-thumb{
     display: flex;
     align-items: center;
     background-size: cover;
+    background-position: 90%;
+    box-sizing: border-box;
 }
 
 .home .content{
@@ -303,6 +305,10 @@ html::-webkit-scrollbar-thumb{
 /* end */
 
 /* diet */
+.diet .text{
+    color:rgb(211, 83, 83);
+font-size: 3.5rem;
+}
 
 .diet .content{
     flex-direction: column;
