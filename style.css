@@ -526,7 +526,7 @@ font-size: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
-.team .box-container .box .content .share i{
+.team .box-container .box .content .share a{
     height: 4.5rem;
     width: 4.5rem;
     line-height: 4.5rem;
@@ -539,7 +539,7 @@ font-size: 1.5rem;
     cursor: pointer;
 }
 
-.team .box-container .box .content .share i:hover{
+.team .box-container .box .content .share a:hover{
     color: var(--white);
     background: var(--primary);
 }
